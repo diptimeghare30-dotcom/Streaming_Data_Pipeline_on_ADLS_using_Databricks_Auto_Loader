@@ -105,6 +105,11 @@ Tables:
 
 ---
 
+## Data Model
+![Data Model](data_model.png)
+
+---
+
 ## ⚙️ Key Features
 
 - ✅ Medallion Architecture (Bronze → Silver → Gold)
