@@ -143,7 +143,6 @@ Tables:
 ---
 
 ### 2️⃣ Create Catalog & Schemas
-```sql
 CREATE SCHEMA bronze;
 CREATE SCHEMA silver;
 CREATE SCHEMA gold;
@@ -197,20 +196,3 @@ Run SQL script:
 - Implement CDC for real-time updates  
 - Add monitoring & alerting  
 - Optimize using Z-Ordering & Partitioning  
-
----
-
-## 👩‍💻 Author
-
-**Dipti Meghare**  
-Data Engineer | Azure | PySpark | Streaming  
-
----
-
-## 📎 Reference
-Project documentation  
-
----
-
-## ⭐ If you like this project
-Give it a ⭐ on GitHub and feel free to fork!
