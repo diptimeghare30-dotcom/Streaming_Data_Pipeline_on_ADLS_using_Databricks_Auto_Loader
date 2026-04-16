@@ -7,6 +7,11 @@ The pipeline ingests **dimension and fact data** from ADLS, processes it using b
 
 ---
 
+## Architecture Diagram
+![Architecture Diagram](architecture_diagram.png)
+
+---
+
 ## 🏗️ Architecture Overview
 
 ### 🔹 Domain
